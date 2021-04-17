@@ -1,7 +1,12 @@
 # York Modular 4-channel Eurorack mixer
 
+**This module is now discontinued - there will be no more made unless there is sufficient demand to justify a new run of boards and panels.**
+
+**Information provided here is provided under the terms of the Creative Commons License Attribution-ShareAlike 4.0 International**
+
 What you'll find here:
 
+- `gerbers` - the Gerber files are in here; if you want to fabricate your own run of boards, these are what the fab will need.
 - `4ch-euromixer-BOM.xlsx` - bill of materials
 - `4ch-euromixer.png` - circuit schematic for reference
 - `4ch-euromixer.{dxf,fpd}` - panel files in AutoCAD format (`.dxf`) and Front Panel Designer format (`.fpd`). These are _blank_ panels.
